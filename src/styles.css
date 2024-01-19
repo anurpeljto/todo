@@ -24,6 +24,7 @@ span {
     padding: 0;
     margin: 0;
     background-color: whitesmoke;
+    padding-left: 10px;
 }
 
 .sidebar-item {
@@ -45,3 +46,4 @@ span {
     grid-template-rows: repeat(4, 1fr);
     gap: 10px;
 }
+
